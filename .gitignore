@@ -1,0 +1,5 @@
+.idea
+*.iml
+flyte-hipchat
+.DS_Store
+/vendor
