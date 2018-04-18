@@ -1,5 +1,7 @@
 # flyte-hipchat
 
+![Build Status](https://travis-ci.org/HotelsDotCom/flyte-hipchat.svg?branch=master)
+
 A HipChat pack for Flyte.
 
 ## Bulding
