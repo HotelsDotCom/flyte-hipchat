@@ -1,6 +1,8 @@
 # flyte-hipchat
 
 ![Build Status](https://travis-ci.org/HotelsDotCom/flyte-hipchat.svg?branch=master)
+[![Docker Stars](https://img.shields.io/docker/stars/hotelsdotcom/flyte-hipchat.svg)](https://hub.docker.com/r/hotelsdotcom/flyte-hipchat)
+[![Docker Pulls](https://img.shields.io/docker/pulls/hotelsdotcom/flyte-hipchat.svg)](https://hub.docker.com/r/hotelsdotcom/flyte-hipchat)
 
 A HipChat pack for Flyte.
 
